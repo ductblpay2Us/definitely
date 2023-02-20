@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "colorado-sub-signal-96045",
+  "private_key_id": "d54965508822c6a4c3abebb3ee154f8cd9f350af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9XtxBc7bTjOfY\nTaRYn1JTWaEPVFD9OptVO1PTLWJuWlT0PtdEVQuOqidTorG+2Z5076rTEuOU6Scs\nOEYOun3aU7H9bU8v3Dq229r1ljDZUlSMHzwzUPntN+H0ZNAUX2eqeX7bg4ZJ9X/j\nBh5CqYMyhZUGQ83dW6fCANNh+8pRePRBnkP7ujQrzrLO8Em1OjvPxVjon+PnaYS4\nvCk11fl5H4bJEc1+uV4YBuOkrbCO4/BxrQZjhfYpkk4Q0Hp0f7RhOUT3pgwS9Oif\nPovQTcl0JQJ8PH2CFPdA2uppPEzc/hK9vDEiMxhN/IbOZRIq65uW+iafX4rDVeB5\nT6VKjcE9AgMBAAECggEAB0FllWrCsSiOIUtqy7HnXHGI/p3FcGwnXyTAz2QYcNt9\nypeBmI7Fay2rH22HBw5ozgcndK6SLhlxq+ow8yTgf3L9Mjgz+i1pJqpQOL1ptlqY\nfmg+r/+8NGBlD9Ew0KZIB+0ZqWXgDw8WxDuRu1QHDE+JSDQHqpXqFu7pQbEIvsvZ\no6shvRIoGqPn4jokwNSXSjdUT0vC8hDEStRgtayz8psPop7Nr9FNVdcxSyL6MqGn\neP6f7LL9ttTMC9bHt8mH2ZVBWBWLHY0IgDst49DH+bIgeZrUKqHJwRqdjbmvehlr\nSQrrwAzQKUVuwzJiMISeqDITKvuheFPRVHIn+Qt86wKBgQDlyY5NNexy8w9Cz+Mc\nkTDH9AE4oonP8KZ8DRm2di7IoXPrxf/5MzSV2oyQvEIRZ2bfYwwMu2t+r/Vha2qj\nLaYEXgOSc8Me+g1ORYTDtZTKaeErZSK2kjfQ4dxNvUihXgNHluSiGNkc6BVdOMMw\nj7T760d3cNo1WAmonxR4MOxjcwKBgQDS+QT9g2tvedIey6Z8/Jn90iWtxaoJ3EFq\nMCzMqCSrO9MaC7kvylOVWwXcbFWOcizVLBe3oJ+AWWUFKUc1Gp1GiPFzoYsKZ2OQ\nRGm7OyK3HUrCns+rzrhDf75+wV/to6gHTtxfJQZ9EvH2Hzn/c5nOb2IFT/tmfJYn\nw2ixU6/8jwKBgQC9etN9tX5xVx35cOUM1GiOKRWsttK/BeiymDbgr1lqlT+6Zn3p\n5qBxBVMtsh8krMg2Yj04bn94au4DVAkN34FrTn7Rj+WQsI6yQT72BtBXjLFhEDds\npuuhsezwqamvbo9zw+hqBeVaIcIkKb9CVu3dYah/xC4bGKp2Qh8l8OmsIwKBgFb8\n0i/tVgj6w8Zq1dTHGn9rfJmv3LKAHIC6KF6iHax02E/u8YZg+CGnDD2cdZJsRUwI\nCCdwlROIyHxeTrv4o0yH/nZc70V057p+WtIWSfQSodapQJtoetVqAJOnC/Sh/BA3\nVentDEXZ3+ZJbdKESbCygEoMdm4FhKwUiEBFb1TFAoGAAQDAni98BO6nMQrOGy6t\nMm2JH9LrYBw5tO6/uPL263If7rujhEFGMXYLR4exdQO5i3mJdaBzL0e/0CQQm6ql\nrV/UYSRCA2DstmGe0HOp9rDGO7aRNEyaNzMTNwa34cpd8moeR11KaqBUOU1c3tZr\n/s/L8+E6Q3s67wXRc89lq6I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-mbyusziivbjrvxerrnrucbhpfm2@colorado-sub-signal-96045.iam.gserviceaccount.com",
+  "client_id": "103038734273788447720",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-mbyusziivbjrvxerrnrucbhpfm2%40colorado-sub-signal-96045.iam.gserviceaccount.com"
+}
